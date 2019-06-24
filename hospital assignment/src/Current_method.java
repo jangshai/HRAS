@@ -30,7 +30,7 @@ public class Current_method {
 		 }
 		 while(allambulancenum<patientnum)
 		 {
-			int criticalpatientnum =0; 
+			int criticalpatientnum =0; //a
 			int seriouspatientnum =0;
 			int normalpatientnum = 0;
 			int nowpatientnum = 0 ;
